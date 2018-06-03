@@ -1,0 +1,10 @@
+public class Minion4 () {
+	string color = "amarillo";
+	string estatura = "30cm";
+	int ojos = 1;
+	boolean cabello = false;
+	boolean ropa = true;
+	public hablar (){
+		return "me want potato";
+	}
+}
