@@ -1,6 +1,7 @@
 {
-	color = "amarillo";
-	estatura = "30cm";
+	String color = "amarillo";
+	Stinrg estatura = "30cm";
+	Boolean cabello = true;
 	public static (){
 		return "me want bannana";
 	}
