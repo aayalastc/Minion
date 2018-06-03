@@ -1,0 +1,7 @@
+{
+	color = "amarillo";
+	estatura = "30cm";
+	public static (){
+		return "me want bannana";
+	}
+}
